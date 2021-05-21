@@ -1,0 +1,2 @@
+use it
+loadstring(game:HttpGet("UrlHere",true))();
